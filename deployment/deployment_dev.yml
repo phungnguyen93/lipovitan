@@ -1,0 +1,71 @@
+
+# NAMESPACE CONFIG
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: dev5
+
+---
+
+# SERVICE CONFIG
+apiVersion: v1
+kind: Service
+metadata:
+  name: lipovitan-staging-svc
+  namespace: dev5
+  labels:
+    app: lipovitan-staging
+    project: lipovitan-staging
+spec:
+  ports:
+    - port: 80
+      targetPort: 3000
+  selector:
+    app: lipovitan-staging
+
+---
+# CONTAINERS CONFIG
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lipovitan-staging
+  namespace: dev5
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: lipovitan-staging
+  template:
+    metadata:
+      labels:
+        app: lipovitan-staging
+        project: lipovitan-staging
+    spec:
+      containers:
+        - name: lipovitan-staging
+          image: '{{image_name}}'
+          ports:
+            - containerPort: 3000
+          resources:
+            requests: # min quota
+              cpu: 100m
+              memory: 128Mi
+            limits: # max quota
+              cpu: 200m
+              memory: 512Mi
+          env:
+            - name: NEXT_PUBLIC_ENV
+              value: staging
+            - name: NEXT_PUBLIC_BASE_PATH
+              value: lipovitan-staging
+            - name: NEXT_PUBLIC_API_BASE_PATH
+              value: 'https://api.lipovitan.zii.vn'
+            - name: NEXT_PUBLIC_CDN_BASE_PATH
+              value: >-
+                https://scontent.sgp1.cdn.digitaloceanspaces.com/staging/frontend/lipovitan-staging
+            - name: NEXT_PUBLIC_BASE_URL
+              value: 'https://dev5.digitop.vn/lipovitan-staging'
+            - name: SESSION_SECRET
+              value: SHPfrs9nuSdutAw2mn8trxCVG93YVGVR
+            - name: IRON_SESSION_SECRET
+              value: SHPfrs9nuSdutAw2mn8trxCVG93YVGVR

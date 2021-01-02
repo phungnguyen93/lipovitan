@@ -1,0 +1,2868 @@
+@media screen and (min-width: 1440px){
+    #aboutUsPage{
+        .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 24%;
+        }
+        .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            left: 6%;
+        }
+        .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 28.5%;
+        }
+    }
+    
+}
+
+@media screen and (max-width: 1440px) and (min-width: 1367px) {
+    #aboutUsPage{
+        .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 24%;
+        }
+        .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            left: 6%;
+        }
+        .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 28.5%;
+        }
+    }
+    
+}
+
+
+@media screen and (max-width: 1366px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+      
+    .headerContainer,
+    .footerContainer{
+        padding-left: 20px;
+        padding-right: 20px;
+        
+    }
+    #homePage{
+        .slideBanner{
+            min-height: 47vh;
+        }
+    }
+}
+@media screen and (max-width: 1366px)  and (min-width: 1026px){
+    #aboutUsPage{
+        .itemBanner {
+            min-height: 60vh;
+        }
+        .itemSeriseInJapan.none .textValue3 .text>div ul p {
+            font-size: 8px;
+            padding: 2px 0;
+        }
+        .itemSeriseInJapan.none .text .titleItems{
+            font-size: 14px;
+        }
+        .sectionBanner .desOurProduct p {
+            font-size: 18px;
+        }
+
+        .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 28%;
+        }
+        .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+            left: 15.5%;
+        }
+        .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            left: 10%;
+        }
+
+        .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 33.5%;
+        }
+        .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: 9%;
+            
+        }
+        .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            left: 9%;
+        }
+    }
+    #ourProductPage{
+        .containerEnergy.jsx-3718025385 {
+            left: 52%;
+            width: 46%;
+        }
+    }
+    #homePage{
+        .sectionOurDifferentiantion{
+            .copy.en{
+                max-width: 750px;
+            }
+        }
+        .sectionEnergy{
+            .copy.en{
+                .containerTitle.en{
+                    justify-content: center;
+                }
+            }
+        }
+        .sectionBrandStory.en{
+            .copy.en{
+                max-width: 630px;
+            }
+        }
+    }
+        
+}
+@media screen and (max-width: 1281px)  and (min-width: 1026px){
+    #homePage{
+        .sectionEnergy{
+            .energyProduct{
+                width: 36vw;
+                right: -14vw;
+            }
+        }
+        
+    }
+    #aboutUsPage{
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 30.1%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: 4%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            left: 6%;
+            top: -5px;
+        }
+     
+    }
+   
+}
+
+
+@media screen and (max-width: 1024px) {
+    main {
+        //margin-top: 0;
+    }
+    .headerContainer.mobile {
+        padding: 20px 20px 20px 20px;
+    }
+    .slideBanner{
+        
+        .slick-next {
+            right: 20px !important;
+        }
+        .slick-prev {
+            left: 20px !important;
+        }
+        .slick-dots {
+            bottom: 15% !important;
+            left: 20px;
+        }
+        .slick-dots li {
+            width: 20px !important;
+            height: 5px !important;
+            &.slick-active {
+                width: 40px  !important;
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 769px){
+    #homePage{
+        .slideBanner{
+            .titleLarge {
+                font-size: 5vmax;
+            }
+            .titleSmall {
+                font-size: 2.5vmax;
+            }
+        }
+        .sectionEnergy{
+            .copy.en{
+                .titleEnergy{
+                    .containerTitle{
+                        justify-content: center !important;
+                    }
+                }
+            }
+        }
+        .sectionBrandStory{
+            .titleLarge {
+                font-size: 5vmax;
+            }
+            .year{
+                font-size: 2.5vmax !important;
+            }
+            b{
+                font-size: 12px !important;
+            }
+        }
+        .sectionNewsHome{
+            .containerNewsHome{
+                .containerTitle{
+                    .lineLeft, .lineRight {
+                        transform: translate(0,-20px) !important;
+                    }
+                    
+                }
+            }
+        }
+    }
+    .energyProduct{
+        width: 34% !important;
+        height: 27.59% !important;
+        bottom: 23px !important;
+        right: -3vw !important;
+        .description{
+            font-size: 14px;
+            i{
+                font-size: 14px;
+            }
+        }
+    }
+    .sectionOurDifferentiantion{
+        .copy {
+            width: 75% !important;
+            .titleLarge {
+                font-size: 5vmax;
+            }
+        }
+    }
+    .sectionOurDifferentiantion{
+        h3.name {
+            font-size: 14px;
+            padding-top: 0;
+        }
+    }
+
+   
+
+}
+@media screen and (max-width: 1025px) and (min-height: 1300px){
+
+    #homePage .sectionEnergy .titleLarge.vi {
+        font-size: 4vmax;
+    }
+    #homePage .sectionBrandStory .titleLarge.vi {
+        font-size: 4vmax;
+    }
+    
+}
+@media screen and (max-width: 1025px) and (min-width: 769px){
+    .sectionEnergy{
+        .containerTitle.en {
+            justify-content: center;
+        }
+        .titleLarge.vi{
+            font-size: 5vmax;
+        }
+    }
+    .headerContainer.mobile {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #aboutUsPage{
+       
+        .sectionContentJob{
+            padding: 50px 35px;
+            table {
+                th {
+                    font-size: 16px;
+                }
+                tr {
+                    font-size: 12px;
+                }
+                tr:first-child td:last-child p {
+                    font-size: 14px;
+                }
+                
+            }
+            
+        }
+       
+        .slideBanner{
+                .copy.vi {
+                    .titleLarge{
+                        font-size: 45px;
+                    }
+                    .titleSmall{
+                        font-size: 25px;
+                    }
+                    .lineRight {
+                        transform: translate(0, -10px);
+                    }
+                }
+                .copy.en {
+                    .containerTitle.en:nth-child(2){
+                        left: 25px !important;
+                        .lineLeft {
+                            margin-right: 15px;
+                            transform: translate(0, -20px);
+                            height: 6px;
+                            width: 70px;
+                        }
+                    }
+                    .titleLarge{
+                        font-size: 50px;
+                    }
+                    .titleSmall{
+                        font-size: 28px;
+                    }
+                    .desOurProduct{
+                        p{
+                            padding-top: 0;
+                            margin-top: -15px;
+                        }
+                    }
+                
+                }
+                .desOurProduct{
+                    p{
+                        font-size: 15px;
+                    }
+                }
+        }
+        .sectionSeriseInJapan{
+            .btnSeriseInJapan.vi{
+                    transform: translate(-30%,0);
+            }
+            .titleItems.vi{
+                    font-size: 9px;
+                    padding-bottom: 2px;
+            }
+
+        }
+        .itemSeriseInJapan.none .textValue3 .text p {
+            padding: 2px 0px;
+            font-size: 8px;
+        }
+        
+    }
+
+    #aboutUsPage{
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 23%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+            left: 10%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            left: 5.5%;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 32%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: 10%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            left: 9%;
+            top: -5px;
+        }
+        
+    }
+    #ourProductPage{
+        .slideBanner{
+            .copy{
+                .desOurProduct{
+                    p{
+                        font-size: 15px;
+                    }
+                }
+            }
+        }
+        .sectionEnergy{
+            .containerEnergy{
+                width: 42%;
+                .listItems{
+                    h4{ 
+                        font-size: 50px;
+                        padding-bottom: 0;
+                    }
+                    h5{
+                        font-size: 22px;
+                    }
+                }
+                .items{
+                    td{
+                        font-size: 20px;
+                    }
+                }
+            }
+        }
+    }
+    #contactPage{
+        .sectionBannerTop{
+            .titleLarge{
+                font-size: 50px;
+            }
+        }
+    }
+}
+
+@media screen and (max-width : 945px) and (min-width: 861px){
+    #aboutUsPage .itemSeriseInJapan.none .textValue3 .text p {
+        font-size: 7px;
+    }
+    #aboutUsPage .sectionSeriseInJapan .titleItems.en {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width : 861px) and (min-width: 769px){
+    #aboutUsPage{
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .btnSeriseInJapan.en {
+            p{
+                font-size: 12px;
+            }
+        }
+       
+        .sectionSeriseInJapan .itemSeriseInJapan.none .btnSeriseInJapan.vi {
+            p{
+                font-size: 12px;
+            }
+        }
+        .itemSeriseInJapan.none .textValue3 .text p {
+            font-size: 6px;
+        }
+     
+    }
+    #aboutUsPage .sectionSeriseInJapan .titleItems.en {
+        font-size: 9px;
+    }
+}
+
+
+
+@media screen and (max-width : 768px) and (min-width: 599px){
+    .headerContainer.mobile {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .slideBanner {
+        min-height: 40vh;
+        // min-width: 100vw;
+    }
+
+    .sectionOurDifferentiantion{
+        min-height: 47vh !important;
+        .copy {
+            width: 75% !important;
+            .containerTitle{
+                img{
+                    transform: unset;
+                    transform: translate(0,-15px);
+                }
+            }
+        }
+        h3.name {
+            font-size: 12px;
+            padding-top: 0;
+        }
+    }
+
+    .sectionNewsHome{
+        .Row{
+            padding-bottom: 0 !important;
+        }
+    }
+
+    #homePage{
+        .slideBanner {
+            min-height: 40vh;
+            // min-width: 100vw;
+        }
+        .energyProduct{
+            width: 32% !important;
+            height: 27.59% !important;
+            bottom: 6% !important;
+            right: 0% !important;
+            .description{
+                font-size: 10px;
+                i{
+                    font-size: 10px;
+                }
+            }
+        }
+        .sectionEnergy{
+            .containerTitle{
+                justify-content: center;
+                img{
+                    transform: unset;
+                    transform: translate(0,-10px);
+                }
+            }
+            
+        }
+        .sectionBrandStory{
+            .copy.vi{
+                width: 60%;
+            }
+            .copy.en{
+                width: 40%;
+            }
+            .itemBrandStory:nth-child(2){
+                .description{
+                    bottom: -3.5%;
+                }
+            }
+        }
+        .sectionNewsHome{
+            .containerTitle{
+                .lineLeft,.lineRight{
+                    transform: unset;
+                    transform: translate(0,-30px);
+                }
+            }
+        }
+    }
+   
+    .sectionBrandStory{
+        .containerTitle{
+            img{
+                transform: unset;
+                transform: translate(0,-10px);
+            }
+        }
+        .year{
+            font-size: 22px !important;
+        }
+        b{
+            font-size: 10px !important;
+        }
+    }
+
+    #aboutUsPage{
+        .sectionBanner{
+            .slideBanner{
+                min-height: 30vh;
+            }
+            .copy{
+                button{
+                    font-size: 14px;
+                }
+                z-index: 1;
+            }
+            .copy.vi {
+                .titleLarge{
+                    font-size: 35px;
+                }
+                .titleSmall{
+                    font-size: 15px;
+                }
+                .lineRight {
+                    transform: translate(0, -10px);
+                }
+            }
+            .copy.en {
+                .containerTitle.en:nth-child(2){
+                    left: 25px !important;
+                    .lineLeft {
+                        margin-right: 15px;
+                        transform: translate(0, -20px);
+                        height: 6px;
+                        width: 70px;
+                    }
+                }
+                .titleLarge{
+                    font-size: 50px;
+                }
+                .titleSmall{
+                    font-size: 28px;
+                }
+                .desOurProduct{
+                    p{
+                        padding-top: 0;
+                        margin-top: -15px;
+                    }
+                }
+            
+            }
+            .desOurProduct{
+                p{
+                    font-size: 13px;
+                    width: 75%;
+                }
+            }
+        }
+        .sectionSeriseInJapan{
+            .btnSeriseInJapan.vi {
+                button {
+                    font-size: 10px;
+                }
+            }
+            
+            .text div:nth-child(1){
+                >ul{
+                    display: flex;
+                    flex-direction: column;
+                }
+            }
+            
+            .titleItems{
+                font-size: 9px;
+                padding-bottom: 2px;
+            }
+            .itemSeriseInJapan.none .textValue3 .text p{
+                font-size: 5px;
+                padding: 1px 0;
+            }
+        }
+
+        .sectionContentJob{
+            padding: 40px 20px;
+            .contentJob{
+                h2{
+                    font-size: 35px;
+                }
+            }
+            table th {
+                font-size: 11px;
+            }
+            table tr:first-child td:last-child p{
+                font-size: 11px;
+                padding-left: 15px;
+            }
+            table td{
+                font-size: 11px;
+            }
+            .filter .ant-btn span{
+                font-size: 11px;
+            }
+        }
+       
+            .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+                left: 23%;
+            }
+            .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+                left: 10%;
+            }
+            .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+                left: 5.5%;
+            }
+    
+            .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+                left: 30%;
+            }
+            .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+                left: 4%;
+            }
+            .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+                left: 5.5%;
+                top: -7px;
+            }
+         
+    }
+
+    #newsPage{
+        .Wrapper{
+            .Row{
+                .NewsInfo>h2{
+                    font-size: 32px;
+                    color: #da251d !important;
+                }
+            }
+        }
+    }
+
+    #whereToBuyPage{
+        .slideBanner {
+            min-height: 34vh;
+            // min-width: 100vw;
+        }
+        .sectionBannerTop{
+            .copy {
+                .lineLeft,.lineRight{
+                    transform: unset;
+                    transform: translate(0,-40px);
+                }
+            }
+            .slideBanner{
+                .slick-prev {
+                    left: -40px !important;
+                }
+                .slick-next {
+                    right: -40px !important;
+                }
+            }
+        }
+        .sectionGTChannel{
+            .itemBanner{
+                h4{
+                    font-size: 20px;
+                }
+                
+            }
+        }
+        
+        .copy{
+            .lineLeft,.lineRight{
+                transform: unset;
+                transform: translate(0,-8px);
+            }
+        }
+    }
+
+    #contactPage{
+        
+        .sectionBannerTop{
+            max-height: 1100px;
+            overflow-y: hidden;
+            .copy{
+                top: 8.5%;
+            
+                .titleLarge{
+                    font-size: 50px;
+                }
+                img{
+                    width: 30vw;
+                    height: 10px;
+                    transform: translate(0,-10px);
+                }
+            }
+            .itemEffect{
+                bottom: 22%;
+            }
+        }
+    }
+    
+
+}
+@media screen and (max-width:800px) and (min-width: 600px){
+    .footerContainer{
+        .menu .item a {
+            font-size: 10px;
+        }
+    }
+}
+@media screen and (max-width : 755px) and (min-width: 660px){
+
+    #aboutUsPage{
+
+        .itemBanner{
+            .copy{
+                top: 60px;
+                .titleLarge {
+                    font-size: 33px ;
+                }
+                .desOurProduct.en p {
+                    padding-top: 0;
+                }
+            }
+            .copy.en{
+                .desOurProduct p {
+                    margin-top: -50px ;
+                }
+            }
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 20% ;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+            left: 7% ;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            left: 2.5% ;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 28% ;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: 0% ;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            left: 3% ;
+        }
+        
+    }
+}
+
+@media screen and (max-width : 661px) and (min-width: 600px){
+
+    #aboutUsPage{
+
+        .itemBanner{
+            .copy{
+                top: 55px;
+                .desOurProduct.en p {
+                    padding-top: 0;
+                }
+            }
+            .copy.vi{
+                .titleLarge {
+                    font-size: 33px ;
+                }
+                .desOurProduct p {
+                    margin-top: -10px ;
+                }
+            }
+            .copy.en{
+                .titleLarge {
+                    font-size: 33px ;
+                }
+                .desOurProduct p {
+                    margin-top: -50px ;
+                }
+            }
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 18%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+            left: 5%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            left: 0.5%;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 26%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: -3%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            left: 1%;
+        }
+        
+    }
+    #aboutUsPage .sectionSeriseInJapan .titleItems {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width : 620px) and (min-width: 600px){
+
+    #aboutUsPage{
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 16%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+            left: 2%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            left: -2.5%;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 24%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: -6%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            left: -2%;
+        }
+        
+    }
+    #aboutUsPage .sectionSeriseInJapan .titleItems {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .headerContainer,
+    .footerContainer {
+        font-size: 14px;
+        
+        .item {
+            padding: 10px 20px;
+        }
+    
+        .social {
+            padding: 0 5px;
+    
+            img {
+                width: 30px;
+                height: 30px;
+                cursor: pointer;
+            }
+        }
+        .openNav{
+            img{
+                width: 40px;
+                margin-left: 10px;
+            }
+            .close{
+                width: 40px;
+                border-left: 5px solid rgba(0,0,0,0);
+            }
+        }
+    }
+    .footerContainer{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .footerContainer.copyright{
+        
+        h5{
+            font-size: 14px;
+        }
+    }
+    .menu {
+        font-size: 14px;
+        li a {
+            font-family: "Montserrat-BlackItalic";
+        }
+    }
+    #newsPage{
+      
+        .filter{
+          
+            .Wrapper{
+            
+                .Row{
+                    .contentFilter{
+                        width: 45%;
+                    }
+                    .btnSend{
+                        width: 45%;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width: 800px) and (orientation: portrait) {
+ 
+}
+
+@media screen and (max-width: 767px) {
+    .headerContainer.mobile{
+        .social {
+            img {
+                width: 30px;
+                height: 30px;
+            }
+        }
+        .openNav{
+            padding: 0;
+            img{
+                width: 40px;
+                margin-left: 10px;
+                height: auto;
+            }
+            .close{
+                width: 40px;
+                border-left: 5px solid rgba(0,0,0,0);
+                height: auto;
+            }
+        }
+    }
+    #contactPage {
+
+        .contentEffect h3 {
+            font-size: 5.5vmax;
+            
+        }
+
+        .sectionAddress{
+            .item{
+                padding-right: 0;
+                ul{
+                    li{
+                        padding-right: 0;
+                        p{
+                            margin-top: -3px;
+                            font-size: 1.7vmax;
+                        }
+                        h4{
+                            font-size: 1.7vmax;
+                        }
+                    }
+                }
+            }
+        }
+        .sectionBannerTop .content-input textarea {
+            background-color: rgba(0,0,0,0);
+           
+        }
+        #contactPage .formContact .center {
+            padding-top: 30px;
+        }
+
+        .sectionBannerTop{
+            .Item{
+                padding-bottom: 0;
+                padding-top: 0;
+                
+            }
+            .content-input{
+                label{
+                    display: none;
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width: 813px) and (orientation: landscape) {
+
+}
+
+
+@media screen and (max-width:599px) {
+
+    .footerContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 30px 20px;
+        .menu{
+            display: block;
+            padding-left: 0 !important;
+            margin: 0;
+            padding-top: 30px;
+            li{
+                padding-left: 0 !important;
+                width: 50%;
+                float: left;
+                
+            }
+        }
+        
+    }
+
+    .footerContainer.copyright{
+        flex-direction: column-reverse;
+        padding: 20px;
+        h5{
+            padding-top: 20px;
+            font-size: 14px;
+        }
+    }
+
+    #homePage{
+
+        .slideBanner{
+        
+            .slick-next {
+                display: none !important;
+            }
+
+            .slick-prev {
+               display: none !important;
+            }
+
+            .copy{
+                top: 13%;
+                .containerTitle.en:nth-child(2){
+                    display: flex;
+                    align-items: flex-start;
+                    justify-content: flex-end;
+                    // margin-top: -48px;
+                    padding-right: 10px;
+
+                    .titleLarge.en{
+                        line-height: 40px !important;
+                        padding: 0 10px;
+                    }
+
+                }
+                .titleLarge.vi{
+                    line-height: 40px !important;
+                    padding: 0 10px;
+                }
+            }
+            .copy.vi{
+                width: 100%;
+                left: unset;
+                .containerTitle{
+                    justify-content: center;
+                }
+            }
+            
+
+        }
+        .sectionBrandStory{
+            .copy{
+                max-width: 70%;
+               
+                .titleLarge{
+                    line-height: 1;
+                }
+                img{
+                    transform: translate(0,0);
+                }
+            }
+            .brandStory{
+                padding-bottom: 50px;
+            }
+        }
+        .sectionBrandStory.vi{
+            padding-top: 20px;
+            .copy{
+                max-width: 95%;
+                .titleLarge{
+                    line-height: 35px;
+                }
+                img{
+                    transform: translate(0,0);
+                }
+                .containerTitle{
+                    padding-bottom: 10px;
+                }
+            }
+
+            .itemEffect.itemBrandStory.mobile{
+                .description{
+                    p{
+                        font-size: 1.7vmax;
+                    }
+                }
+            }
+           
+        }
+        .sectionOurDifferentiantion{
+            .containerTitle:nth-child(2){
+                justify-content: flex-start !important;
+                img{
+                    display: none;
+                }
+            }
+        }
+        .sectionEnergy{
+
+            .titleEnergy.mobile{
+
+                justify-content: center;
+
+                h1{
+                    line-height: 1.3;
+                }
+
+                img{
+                    transform: unset;
+                }
+                .containerTitle:nth-child(1){
+                    display: flex;
+                    justify-content: flex-start;
+                }
+                .containerTitle:nth-child(2){
+                    display: flex;
+                    justify-content: flex-end;
+
+                }
+
+            }
+            .copy.mobile.en{
+                width: 75%;
+                top: 5%;
+                
+            }
+            
+        }
+        .sectionNewsHome{
+            .titleNews{
+                h1{
+                    line-height: 1 !important;
+                }
+                img{
+                    transform: unset;
+                }
+            }
+            .containerNewsHome{
+                .Row{
+                    padding-bottom: 20px;
+                }
+                .WrapPaging{
+                    display: none;
+                }
+            }
+        }
+        
+    }
+
+    .sectionCertification{
+        .containerTitle{
+            text-align: center;
+        }
+        .containerCertification{
+            .contentEffect{
+                
+            }
+            .itemEffect.itemEnergy:nth-child(1) {
+                width: 47%;
+            }
+            .itemEffect.itemEnergy:nth-child(2) {
+                width: 25%;
+            }
+        }
+    }
+
+    #ourProductPage{
+        .slideBanner{
+            .copy{
+                .containerTitle{
+                    img{
+                        transform: unset;
+                        transform: translate(0,-5px);
+                    }
+                }
+                .logoLipo{
+                    width: 50vw;
+                }
+                
+            }
+        }
+        .sectionEnergy .itemEffect.itemEnergy {
+            left: 2.5%;
+
+        }
+        .sectionEnergy{
+            .contentEffect.rotate img {
+                width: 100%;
+                height: 117.5%;
+                left: 1%;
+            }
+            .logoLipo{
+                width: 50vw;
+                margin-left: auto;
+                margin-right: auto;
+                margin-bottom: 10px;
+            }
+        }
+    }
+
+    #aboutUsPage{
+        .wrap.jsx-3155401243 {
+            margin-top: -100px;
+            .containerSeriseInJapan.jsx-3155401243 {
+                top: 60px;
+            }
+        }
+        .slideBanner{
+            .copy{
+                .containerTitle{
+                    img{
+                        transform: unset;
+                        transform: translate(0,-10px);
+                        width: 40px;
+                    }
+                  
+                }
+
+            }
+            
+        }
+        .slideBanner.vi{
+            .containerTitle{
+               
+                h1{
+                   font-size: 31px;
+                   line-height: 50px;
+                }
+                
+            }
+        }
+        .slideBanner.en{
+            .containerTitle:nth-child(2){
+                img{
+                    transform: unset;
+                    transform: translate(0,-30px);
+                    width: 40px;
+                }
+                h1{
+                    padding: 0 !important;
+                }
+                
+            }
+            .containerTitle.en:nth-child(2){
+                left: 40px !important;
+            }
+            .desOurProduct{
+                position: relative;
+                bottom: 35px;
+                p{
+                    padding: 0;
+                }
+            }
+        }
+        .sectionSeriseInJapan{
+            padding-bottom: 0;
+            overflow: hidden;
+            .containerSeriseInJapan{
+                p{
+                    font-size: 16px;
+                    padding-top: 0;
+                }
+            }
+            .btn{
+                transform: translate(-20%,0);
+                padding: 3px ;
+                p{
+                    font-size: 10px;
+                }
+                &::after,&::before{
+                   
+                }
+            }
+
+            
+            
+        }
+
+        .filter{
+            .ant-btn:nth-child(1) span::after {
+                left: unset;
+                right: 10px;
+            }
+            .btnSearch{
+                .btn{
+                    margin-right: auto !important;
+                }
+            }
+
+            .listItems{
+
+                .item{
+                    background-color: #F1F1F1;
+                    padding: 10px 20px;
+                    margin: 0;
+                    .jobName{
+                        a{
+                            color : #757575;
+                            font-weight: bold;
+                        }
+                        h4{
+                            color : #757575;
+                            font-weight: bold;
+                            font-family: Montserrat-BoldItalic;
+                        }
+                   }
+
+                }
+                .item:nth-child(1){
+                    margin-top: 25px;
+                }
+                .item:nth-child(2n){
+                    background-color: #fff;
+                }
+                
+            }
+            .content-input input{
+                background-image: url("../public/images/bg-input.png");
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: 100%;
+                margin: 0 !important;
+                height: 35px;
+                padding-right: 0;
+                width: 100% !important;
+           }
+        }
+    }
+
+    #whereToBuyPage{
+        
+        .sectionBannerTop{
+
+            .copy.mobile{
+                .titleLarge:nth-child(2){
+                   padding-right: 20px;
+                }
+                .titleLarge:nth-child(1){
+                    line-height: 45px !important;
+                    justify-content: flex-start;
+                }
+                .containerTitle:nth-child(1){
+                    display: flex;
+                    justify-content: flex-start;
+                    padding-left: 20px;
+                }
+                .containerTitle{
+                    img{
+                        width: 50px;
+                        transform: unset;
+                        transform: translate(-10px, -10px);
+                    }
+                }
+            }
+            .slick-prev {
+                left: -10.5% !important;
+            }
+            .slick-next {
+                right: -10.5% !important;
+            }
+        }
+
+        .sectionGTChannel{
+            .copy.mobile{
+                .containerTitle{
+                    img{
+                        transform: unset;
+                        transform: translate(-10px,-12px);
+                    }
+                }
+                .titleLarge{
+
+                }
+            }
+            .itemBanner{
+                h4{
+                    font-size: 3.1vmax;
+                }
+            }
+            .slick-prev {
+                left: -10.5% !important;
+            }
+            .slick-next {
+                right: -10.5% !important;
+            }
+        }
+        .bannerBottom{
+            .copy.mobile{
+                .titleLarge:nth-child(2){
+                   padding-right: 20px;
+                   justify-content: flex-end;
+                }
+                .titleLarge:nth-child(1){
+                    line-height: 40px !important;
+                    justify-content: flex-end;
+                }
+                .containerTitle:nth-child(1){
+                    display: flex;
+                    justify-content: flex-start;
+                    padding-left: 20px;
+                }
+                .containerTitle:nth-child(2){
+                  
+                    justify-content: flex-end !important;
+                    
+                }
+                .containerTitle{
+                    img{
+                        width: 50px;
+                        transform: unset;
+                        transform: translate(-10px, -10px);
+                    }
+                }
+            }
+        }
+        
+        
+    }
+
+    #contactPage{
+        .sectionBannerTop .content-input textarea {
+            background-color: rgba(0,0,0,0);
+            margin-bottom: 0;
+        }
+        
+        .sectionBannerTop{
+            .Item{
+                padding-bottom: 0;
+                padding-top: 0;
+                
+            }
+            label{
+                display: none !important;
+            }
+           
+            .copy{
+                .containerTitle{
+                    h1{
+                        line-height: 50px !important;
+                    }
+                }
+                .containerTitle:nth-child(3){
+                    display: none;
+                }
+                .containerTitle:nth-child(2){
+                    img{
+                        transform: unset;
+                        transform: translate(0, -10px);
+                    }
+                }
+                .desOurProduct{
+                    padding-top: 10px;
+                    
+                    p{
+                        font-size: 1.6vmax;
+                        padding-right: 10px;
+                    }
+                    
+                }
+            }
+            .itemEffect{
+                .contentEffect{
+                    h3{
+                        min-width: 100vw;
+                        min-height: 40px;
+                        display: inline-block;
+                    }
+                }
+            }
+           
+        }
+    }
+    
+    #newsPage{
+      
+        .filter{
+          
+          .Wrapper{
+           
+              .Row{
+                    display: flex;
+                    flex-direction: column-reverse;
+                    justify-content: center;
+                    .btnSend{
+                        width: 100%;
+                        margin-bottom: 31px;
+                        p{
+                            height: 100%;
+                            width: 40%;
+                            padding-bottom: 8px;
+                            padding-top: 8px;
+                        }
+                        input{
+                            margin: 0;
+                            &::-webkit-input-placeholder { /* Edge */
+                                font-size: 1.4vmax;
+                                }
+                                
+                            &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+                                font-size: 1.4vmax;
+                                }
+                                
+                            &::placeholder {
+                                font-size: 1.4vmax;
+                                }
+                            
+                        }
+                        
+                    }
+                    .contentFilter{
+                        width: 100%;
+                    }
+              }
+             
+              .ant-btn{
+                 
+                  span{
+                      width: 100%;
+                            
+                  }
+                  span::after{
+                      width: 9px;
+                      height:10px;
+                  }
+              }
+          }
+  
+          .btnSend{
+              position: relative;
+              input{
+                  z-index: 1;
+                 
+              }
+              p{
+                  z-index: 1;
+                  position: relative;
+                  transform: translate(8%,0);
+              }
+            }
+            .btnSend:after {
+                
+            }
+            
+            tr:after {
+                width: 102%;
+                top: unset;
+                bottom: 33%;
+                
+            }
+            
+          
+        }
+        
+        
+    }
+}
+@media screen and (max-width: 599px) and (min-width: 425px) {
+    #contactPage {
+        .sectionBannerTop {
+            .copy .containerTitle h1 {
+                font-size: 6vmax;
+                line-height: 60px !important;
+                
+            }
+            .copy{
+                .desOurProduct p {
+                    font-size: 1.9vmax;
+                    padding: 25px 0;
+                }
+            }
+            
+        }
+        .contentEffect h3 {
+            font-size: 4vmax;
+        }
+        .formContact .center {
+            padding-top: 20px;
+        }
+    }
+}
+
+@media screen and (max-width: 600px) and (min-width: 521px) {
+    #aboutUsPage{
+        
+        .wrap {
+            margin-top: 0px !important;
+            .containerSeriseInJapan {
+                top: -35px !important;
+                z-index: 2;
+            }
+        }
+        
+        .sectionSeriseInJapan{
+            padding-bottom: 0;
+            overflow: unset;
+            .containerSeriseInJapan{
+                p{
+                    font-size: 14px;
+                }
+            }
+            .btn{
+                
+                padding: 3px ;
+                p{
+                    font-size: 6px;
+                    width: 100%;
+                }
+               
+            }
+
+            .itemSeriseInJapan.none {
+              
+                font-size: 6px;
+
+                .textValue1 {
+                    .text {
+                        width: 29.64%;
+                        left: 43.5%;
+                        text-align: center;
+
+                        p {
+                            padding: 10px;
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        top: 14%;
+                        left: 27%;
+                    }
+                }
+
+                .textValue2 {
+                    .text {
+                        width: 44%;
+                        left: 37.5%;
+                        top: 35% !important;
+                        text-align: center;
+                        display: flex;
+                        justify-content: center;
+
+                        p {
+                            padding: 10px 5px;
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        left: 12%;
+                    }
+                }
+
+                .textValue3 {
+
+                    .text {
+                        top: 29% !important;
+                        width: 59%;
+                        left: 30%;
+                        p {
+                            padding: 2px 0px;
+                        }
+                    }
+
+                    .text>div {
+                        display: flex;
+                        flex-direction: row;
+                        margin: 0 5px;
+                        width: 50%;
+                        justify-content: center;
+
+                        ul {
+                            padding: 0 3px;
+                            width: 50%;
+
+                            p {
+                                position: relative;
+                                font-size: 4px;
+                            }
+
+                            p::after {
+                                content: "";
+                                position: absolute;
+                                width: 3px;
+                                height: 3px;
+                                background-color: #fff;
+                                border-radius: 50%;
+                                right: 102%;
+                                top: 45%;
+                                transform: translate(-50%, 0);
+                            }
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        left: 4%;
+                    }
+                }
+
+                .text {
+                    ul {
+                        text-align: left;
+                    }
+
+                    .titleItems {
+                        padding: 2px 0;
+                        text-align: center;
+                        font-size: 7px;
+                        color: #fff;
+                        font-family: Montserrat-BoldItalic;
+                    }
+                }
+            }
+            
+        }
+        .contentJob{
+            padding: 10px 10px !important;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 30%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+            left: 20%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            left: 13.5%;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 32%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: 16%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            left: 14.5%;
+            top: -7px;
+        }
+    }
+}
+
+@media screen and (max-width: 521px) {
+    #ourProductPage{
+        .slideBanner{
+            .copy{
+                img{
+                    // transform: unset;
+                    // transform: translate(0,-10px);
+                }
+            }
+        }
+    }
+    #aboutUsPage{
+        .sectionSeriseInJapan{
+            padding-bottom: 0;
+            .containerSeriseInJapan{
+                p{
+                    font-size: 16px;
+                }
+            }
+            .btn{
+                
+                padding: 3px ;
+                p{
+                    font-size: 6px;
+                }
+               
+            }
+
+            .itemSeriseInJapan.none {
+              
+                font-size: 6px;
+
+                .textValue1 {
+                    .text {
+                        width: 29.64%;
+                        left: 43.5%;
+                        text-align: center;
+
+                        p {
+                            padding: 5px;
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        top: 14%;
+                        left: 27%;
+                    }
+                }
+
+                .textValue2 {
+                    .text {
+                        width: 50%;
+                        left: 33.5%;
+                        top: 33% !important;
+                        text-align: center;
+                        display: flex;
+                        justify-content: center;
+
+                        p {
+                            padding: 5px 10px;
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        left: 12%;
+                    }
+                }
+
+                .textValue3 {
+
+                    .text {
+                        font-size: 15px;
+                        top: 18% !important;
+                        width: 80%;
+                        left: 20%;
+                       
+
+                        p {
+                            padding: 2px 0px;
+                        }
+
+                        span {
+                            font-size: 0.7vmax;
+                            display: inherit;
+                            padding: 5px 0;
+                        }
+                    }
+
+                    .text>div {
+                        display: flex;
+                        flex-direction: row;
+                        margin: 0 5px;
+                        width: 50%;
+                        justify-content: center;
+
+                        ul {
+                            padding: 0 5px;
+                            width: 50%;
+
+                            p {
+                                position: relative;
+                                font-size: 5px;
+                            }
+
+                            p::after {
+                                content: "";
+                                position: absolute;
+                                width: 3px;
+                                height: 3px;
+                                background-color: #fff;
+                                border-radius: 50%;
+                                right: 102%;
+                                top: 45%;
+                                transform: translate(-50%, 0);
+                            }
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        left: 4%;
+                    }
+                }
+
+                .text {
+                    ul {
+                        text-align: left;
+                    }
+
+                    .titleItems {
+                        padding: 4px 0;
+                        text-align: center;
+                        font-size: 1vmax;
+                        color: #fff;
+                        font-family: Montserrat-BoldItalic;
+                    }
+                }
+            }
+            
+        }
+        .contentJob{
+            padding: 10px 10px !important;
+        }
+    }
+
+    #joinUsPage{
+        .sectionBannerTop{
+            .copy{
+                .containerTitle:nth-child(1){
+                    height: 110px;
+                    align-items: flex-start;
+                }
+                .titleLarge:nth-child(2){
+                    line-height: 20px !important;
+                }
+                .titleLarge:nth-child(1){
+                    line-height: 45px !important;
+                }
+                .containerTitle{
+                    img{
+                        width: 50px;
+                    }
+                }
+            }
+        }
+        .sectionContentJob{
+            button{
+                font-size: 14px !important;
+            }
+        }
+    }
+
+    #homePage{
+        .sectionOurDifferentiantion{
+            .titleLarge{
+                font-size: 35px;
+            }
+        }
+        .slideBanner{
+            .titleLarge.en{
+                font-size: 40px;
+            }
+        }
+        
+    }
+    
+    
+}
+
+@media screen and (max-width: 480px) {
+    
+    .headerContainer.mobile{
+        .social {
+            img {
+                width: 25px;
+                height: 25px;
+            }
+        }
+        .openNav{
+            padding: 0;
+            margin-left: 0;
+            img{
+                width: 35px;
+                margin-left: 10px;
+                height: auto;
+            }
+            .close{
+                width: 35px;
+                border-left: 5px solid rgba(0,0,0,0);
+                height: auto;
+            }
+        }
+    }
+    
+    .slick-list {
+        height: auto !important;
+    }
+
+    #homePage{
+
+        .slideBanner{
+        
+            .slick-next {
+                display: none !important;
+            }
+
+            .slick-prev {
+               display: none !important;
+            }
+
+            .copy{
+                top: 13%;
+                .containerTitle.en:nth-child(2){
+                    display: flex;
+                    align-items: flex-start;
+                    justify-content: flex-end;
+                    // margin-top: -48px;
+                    padding-right: 10px;
+
+                    .titleLarge.en{
+                        line-height: 40px !important;
+                        padding: 0 10px;
+                    }
+
+                }
+            }
+            
+            .copy.vi{
+                width: 100%;
+                left: unset;
+                .containerTitle{
+                    justify-content: center;
+                }
+            }
+
+        }
+        .sectionBrandStory{
+            .copy{
+                max-width: 70%;
+               
+                .titleLarge{
+                    line-height: 1;
+                }
+                img{
+                    transform: translate(0,0);
+                }
+            }
+            .brandStory{
+                padding-bottom: 0;
+            }
+        }
+        .sectionBrandStory.vi{
+            .copy{
+                max-width: 95%;
+                .titleLarge{
+                    line-height: 35px;
+                }
+                img{
+                    transform: translate(0,0);
+                }
+                .containerTitle{
+                    padding-bottom: 10px;
+                }
+            }
+
+            .itemEffect.itemBrandStory.mobile{
+                .description{
+                    p{
+                        font-size: 1.7vmax;
+                    }
+                }
+            }
+           
+        }
+        .sectionOurDifferentiantion{
+            .containerTitle:nth-child(1){
+                padding-left: 20px;
+            }
+            .containerTitle:nth-child(2){
+                justify-content: center !important;
+                img{
+                    display: none;
+                }
+
+            }
+
+        }
+        
+    }
+
+    #aboutUsPage{
+        .sectionSeriseInJapan{
+            padding-bottom: 0;
+            .containerSeriseInJapan{
+                p{
+                    font-size: 14px;
+                    padding-top: 0px;
+                    padding-bottom: 15px;
+                }
+            }
+            .btn{
+                padding: 3px ;
+                p{
+                    font-size: 6px;
+                }
+               
+            }
+            
+        }
+        .contentJob{
+            padding: 10px 0px !important;
+        }
+        .slideBanner.vi .containerTitle h1 {
+            font-size: 30px;
+        }
+        .copy.vi {
+            .titleSmall{
+                font-size: 20px;
+            }
+            
+        }
+    }
+
+    #contactPage{
+
+        .sectionBannerTop .content-input textarea {
+            background-color: rgba(0,0,0,0);
+            margin-bottom: 0;
+            padding-bottom: 5px;
+            padding-top: 25px;
+           
+        }
+        input[type="text"], 
+            input[type="email"], 
+            input[type="number"], 
+            input[type=""]{
+            margin-bottom: 0px;
+        }
+        .sectionBannerTop{
+            .Item{
+                padding-bottom: 0;
+                padding-top: 0;
+                
+            }
+            .content-input{
+                label{
+                    display: none;
+                }
+            }
+            input{
+                font-size: 1.5vmax !important;
+                &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                  
+                    font-size: 1.5vmax;
+                   
+                }
+                  
+                &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+                    font-size: 1.5vmax;
+                }
+                  
+                &::-ms-input-placeholder { /* Microsoft Edge */
+                    font-size: 1.5vmax;
+                }
+            }
+    
+            textarea{
+              
+                font-size: 1.5vmax !important;
+                
+                &::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+                    font-size: 1.5vmax;
+                }
+                  
+                &:-ms-input-placeholder { /* Internet Explorer 10-11 */
+                    font-size: 1.5vmax;
+                }
+                  
+                &::-ms-input-placeholder { /* Microsoft Edge */
+                    font-size: 1.5vmax;
+                }
+            }
+            button{
+                p{
+                    font-size: 1.7vmax;
+                }
+            }
+        }
+        .contentEffect{
+            h3{
+                font-size: 3vmax;
+            }
+        }
+        
+    }
+
+}
+
+@media screen and (max-width: 425px) and (min-width: 416px) {
+    #contactPage {
+        .contentEffect h3 {
+            padding-top: 0;
+        }
+        .sectionBannerTop .copy .desOurProduct p {
+            font-size: 1.6vmax;
+            padding-right: 20px;
+        }
+    }
+    
+}
+@media screen and (max-width: 425px){
+    #aboutUsPage{
+        .wrap.jsx-3155401243 {
+            margin-top: -100px;
+            .containerSeriseInJapan.jsx-3155401243 {
+                top: 60px;
+            }
+        }
+        .sectionSeriseInJapan{
+            button.btn p {
+                font-size: 5px;
+                line-height: 5px;
+            }
+        }
+        .itemSeriseInJapan.none .textValue>div .btnSeriseInJapan.vi{
+            .btn p{
+                width: 100%;
+            }
+        }
+        .itemSeriseInJapan.none .textValue>div {
+            height: 32.33%;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 27%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+            left: 16%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            top: -8px;
+            left: 5%;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 27%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: 10%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            top: -8px;
+            left: 4.5%;
+        }
+        
+        .sectionSeriseInJapan .itemSeriseInJapan.none .text .titleItems {
+            padding: 2px 0;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan {
+            left: 26%;
+        }
+    }
+   
+}
+
+@media screen and (max-width: 415px) and (min-width: 411px) {
+    #homePage{
+
+        .slideBanner{
+        
+            
+            .copy .titleLarge.vi {
+                line-height: 47px !important;
+            }
+            .itemBanner{
+                .containerTitle.en:nth-child(2) {
+                    margin-top: -45px;
+                    margin-left: 27%;
+                }
+                
+            }
+            .itemBanner:nth-child(1){
+                .containerTitle.en:nth-child(2) {
+                    width: 70%;
+                }
+                
+            }
+        }
+     
+       
+        .sectionOurDifferentiantion{
+            .containerTitle:nth-child(2){
+                font-size: 35px;
+                
+            }
+        }
+       
+      
+    }
+}
+
+@media screen and (max-width: 414px) and (min-height: 896px) {
+    .sectionBrandStory{
+        .itemBrandStory.mobile{
+            .description{
+                font-size: 1.6vmax;
+                b{
+                    font-size: 1.6vmax;
+                }
+            }
+        }
+        .itemEffect.itemBrandStory:nth-child(0){
+            width: 6.3%;
+        }
+    }
+    #homePage{
+
+        .slideBanner{
+            .titleSmall {
+                font-size: 2.6vmax;
+            }
+        }
+    }
+   
+}
+
+@media screen and (max-width: 410px) and (min-width: 375px) {
+    #homePage{
+
+        .slideBanner{
+        
+            .copy{
+            
+                .containerTitle.en:nth-child(2){
+                    margin-top: -45px;
+                }
+                
+                .titleLarge.vi{
+                   
+                }
+
+            }
+            .copy .titleLarge.vi {
+                line-height: 47px !important;
+            }
+            .itemBanner:nth-child(1){
+                .containerTitle.en:nth-child(2) {
+                    margin-top: 0px;
+                    margin-left: 27%;
+                }
+               
+            }
+          
+            .copy.en:nth-child(2){
+                .containerTitle.en:nth-child(2) {
+                    margin-top: -45px;
+                    margin-left: 27%;
+                }
+            }
+           
+            .itemBanner{
+                .containerTitle.en:nth-child(2) {
+                    margin-top: -45px;
+                    margin-left: 27%;
+                }
+               
+            }
+        }
+     
+        .sectionOurDifferentiantion{
+            .containerTitle:nth-child(n){
+                font-size: 35px;
+            }
+        }
+       
+    }
+    .contentJob{
+        padding: 10px 0px !important;
+    }
+    #contactPage {
+        .contentEffect h3 {
+            padding-top: 0;
+            top: 6%;
+        }
+        .formContact{
+            top: 19.5%;
+            .center {
+                padding-top: 10px;
+            }
+        }
+        .sectionAddress{
+            .item{
+                padding-right: 0;
+                ul{
+                    li{
+                        padding-right: 0;
+                        p{
+                            margin-top: -3px;
+                            font-size: 1.7vmax;
+                        }
+                        h4{
+                            font-size: 1.7vmax;
+                        }
+                    }
+                }
+            }
+        }
+        .sectionBannerTop .content-input textarea {
+            height: 80px;
+        }
+        .sectionBannerTop .copy .desOurProduct p {
+            font-size: 1.7vmax;
+        }
+    }
+
+    .sectionBrandStory{
+        .itemBrandStory.mobile{
+            .description{
+                font-size: 1.6vmax;
+                b{
+                    font-size: 1.6vmax;
+                }
+            }
+        }
+    }
+    .languageContent {
+        padding: 0 15px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    #aboutUsPage{
+        .sectionSeriseInJapan{
+            padding-bottom: 0;
+            .containerSeriseInJapan{
+                p{
+                    font-size: 12px;
+                    padding-top: 0;
+                }
+            }
+            .btn{
+                p{
+                    font-size: 5px;
+                    width: 100%;
+                    text-align: center;
+                }
+               
+            }
+
+            .itemSeriseInJapan.none {
+                // font-size: 0.8vmax;
+                .textValue1 {
+                    .text {
+                        width: 29.64%;
+                        left: 43.5%;
+                        text-align: center;
+
+                        p {
+                            padding: 4px;
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        top: 5%;
+                        left: 24%;
+                    }
+                }
+
+                .textValue2 {
+                    .text {
+                        width: 50%;
+                        left: 33.5%;
+                        top: 33% !important;
+                        text-align: center;
+                        display: flex;
+                        justify-content: center;
+
+                        p {
+                            padding: 5px 10px;
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        left: 12%;
+                    }
+                }
+
+                .textValue3 {
+
+                    .text {
+                        font-size: 0.7vmax;
+                        top: 18% !important;
+                        width: 85%;
+                        left: 17%;
+                       
+                        p {
+                            padding: 1px 0px;
+                        }
+
+                        span {
+                            font-size: 0.7vmax;
+                            display: inherit;
+                            padding: 5px 0;
+                        }
+                    }
+
+                    .text>div {
+                        display: flex;
+                        flex-direction: row;
+                        margin: 0 5px;
+                        width: 50%;
+                        justify-content: center;
+
+                        ul {
+                            padding: 5px;
+                            padding-top: 2px;
+
+                            p {
+                                position: relative;
+                                // font-size: 0.8vmax;
+                            }
+
+                            p::after {
+                                content: "";
+                                position: absolute;
+                                width: 3px;
+                                height: 3px;
+                                background-color: #fff;
+                                border-radius: 50%;
+                                right: 102%;
+                                top: 45%;
+                                transform: translate(-50%, 0);
+                            }
+                        }
+                    }
+
+                    .btnSeriseInJapan {
+                        left: 2%;
+                        top:-15%;
+                    }
+                }
+
+                .text {
+                    ul {
+                        text-align: left;
+                    }
+
+                    .titleItems {
+                        padding: 4px 0;
+                        text-align: center;
+                        font-size: 0.9vmax;
+                        color: #fff;
+                        font-family: Montserrat-BoldItalic;
+                    }
+                }
+            }
+            
+        }
+    }
+
+    #joinUsPage{
+        .sectionBannerTop{
+            .copy{
+                width: 100%;
+                left: 0;
+                .containerTitle:nth-child(1){
+                    height: 70px;
+                    align-items: flex-start;
+                }
+                .titleLarge:nth-child(2){
+                    line-height: 20px !important;
+                }
+                .titleLarge:nth-child(1){
+                    line-height: 45px !important;
+                    padding-left: 10px;
+                }
+                .titleLarge{
+                    font-size: 35px !important;
+                }
+                .containerTitle{
+                    img{
+                        width: 40px;
+                    }
+                }
+            }
+        }
+    }
+
+    #whereToBuyPage{
+        .sectionGTChannel{
+            .copy.mobile{
+                .containerTitle{
+                    img{
+                     
+                    }
+                }
+                .titleLarge{
+
+                }
+            }
+            .itemBanner{
+                h4{
+                    font-size: 2.5vmax;
+                }
+            }
+        }
+        
+    }
+    #contactPage{
+        .sectionBannerTop .content-input textarea {
+            background-color: rgba(0,0,0,0);
+            margin-bottom: 0;
+            padding-bottom: 5px;
+            padding-top: 10px;
+            height: 70px;
+        }
+        input[type="text"], 
+            input[type="email"], 
+            input[type="number"], 
+            input[type=""]{
+            margin-bottom: 0px;
+        }
+        .sectionBannerTop{
+            .Item{
+                padding-bottom: 0;
+                padding-top: 0;
+                
+            }
+            .content-input{
+                label{
+                    display: none;
+                }
+            }
+            .imageItem{
+                height: 100%;
+            }
+        }
+        
+        
+    }
+    .contentJob{
+        padding: 10px 0px !important;
+    }
+    
+}
+
+@media screen and (max-width: 375px) {
+    .headerContainer.mobile{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .headerContainer.mobile .social{
+       display: none;
+    }
+    .headerContainer.mobile .social.openNav{
+        display: inline-block;
+    }
+
+    .sectionCertification{
+        .containerTitle{
+            text-align: center;
+            h1{
+                font-size: 26px;
+            }
+            h4{
+                font-size: 14px;
+            }
+        }
+        .containerCertification{
+            bottom: 10%;
+            .itemEffect.itemEnergy:nth-child(1) {
+                width: 50%;
+            }
+            .itemEffect.itemEnergy:nth-child(2) {
+                width: 30%;
+            }
+        }
+        
+    }
+
+    #contactPage {
+        .contentEffect h3 {
+            padding-top: 0;
+            top: 6.9%;
+        }
+        .formContact{
+            top: 19.5%;
+            .center {
+                padding-top: 10px;
+            }
+        }
+        .sectionAddress{
+            .item{
+                padding-right: 0;
+                ul{
+                    li{
+                        padding-right: 0;
+                        p{
+                            margin-top: -3px;
+                            font-size: 1.7vmax;
+                        }
+                        h4{
+                            font-size: 1.7vmax;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    .contentJob{
+        padding: 10px 0px !important;
+    }
+    // #aboutUsPage{
+    //     .itemSeriseInJapan.none .textValue>div {
+    //         height: 32%;
+    //     }
+    // }
+    #aboutUsPage{
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.en {
+            left: 27%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.en {
+            left: 14%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.en {
+            top: -10px;
+            left: 3.5%;
+        }
+
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue1 .btnSeriseInJapan.vi {
+            left: 27%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue2 .btnSeriseInJapan.vi {
+            left: 8%;
+        }
+        .sectionSeriseInJapan .itemSeriseInJapan.none .textValue3 .btnSeriseInJapan.vi {
+            top: -8px;
+            left: 3.5%;
+        }
+    }
+}
+@media screen and (max-width: 375px) and (max-height: 667px) {
+    #whereToBuyPage{
+        .sectionBannerTop{
+            .copy.mobile{
+                top: 25%;
+            }
+        }
+    }
+}
+@media screen and (max-width: 375px) and (max-height: 812px) {
+    #whereToBuyPage{
+        .sectionBannerTop{
+            .copy.mobile{
+                top: 25%;
+            }
+        }
+    }
+    #homePage{
+        .slideBanner{
+            .containerTitle{
+                .titleSmall{
+                    font-size: 2vmax;
+                }
+            }
+            .containerTitle{
+                .titleSmall{
+                    margin-left: 4px;
+                }
+            }
+        }
+        .sectionBrandStory{
+            .contentEffect{
+                .description{
+                    font-size: 12px;
+                    b{
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+    }
+    #ourProductPage{
+        .containerEnergy h4 {
+            padding: 5px 0;
+          
+        }
+
+        .sectionCertification{
+            .copy{
+                top: 3%;
+            }
+        }
+        .sectionCertification .containerTitle h4{
+            padding-top: 40px;
+            padding-right: 30px;
+            padding-left: 30px;
+        }
+        .sectionEnergy{
+            .itemEffect.itemEnergy {
+                left: 2.5%;
+            }
+        }
+    }
+    #aboutUsPage{
+        .sectionBanner{
+            .copy{
+                .desOurProduct{
+                    p{
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+        section.wrap{
+            margin-top: -50px;
+        }
+    }
+    #newsPage{
+        .filter .Wrapper .Row .btnSend {
+            input {
+                margin: 0;
+                padding-bottom: 8px;
+            }
+            p{
+                padding-top: 11px;
+                padding-bottom: 11px;
+                font-size: 13px;
+            }
+        }
+        
+    }
+}
+
+@media screen and (max-width: 360px) and (min-width: 320px) {
+    .sectionBrandStory{
+        .itemBrandStory.mobile{
+            .description{
+                font-size: 1.6vmax;
+                b{
+                    font-size: 1.6vmax;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width : 320px){
+    #homePage{
+        .slideBanner{
+            .titleLarge.en{
+                font-size: 28px;
+            }
+        }
+        
+    }
+    .sectionEnergy{
+        .containerEnergy  {
+            h4, h3{
+                font-size: 30px !important;
+            }
+            h4{
+                padding: 5px 0  !important;
+            }
+            .description h4, .description h3 {
+                font-size: 16px !important;
+            }
+        }
+        table td {
+            font-size: 15px !important;
+            
+        }
+    }
+    #aboutUsPage .slideBanner.vi .containerTitle h1 {
+        font-size: 25px;
+    }
+   
+}

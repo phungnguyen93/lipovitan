@@ -1,0 +1,27 @@
+{
+  "git": {
+    "creator": "vansuphan",
+    "repoURL": "https://bitbucket.org/digitopvn/lipovitan-2020/src"
+  },
+  "isStaticSite": false,
+  "projectSlug": "lipovitan-2020",
+  "projectName": "Lipovitan 2020",
+  "username": "vansuphan",
+  "version": "v1.2.1",
+  "diginext-cli": "0.4.2",
+  "domain": {
+    "staging": [],
+    "prod": []
+  },
+  "cdn-host": {
+    "dev": "https://scontent.sgp1.cdn.digitaloceanspaces.com/dev/frontend/lipovitan-2020",
+    "dev-nocache": "https://scontent.sgp1.digitaloceanspaces.com/dev/frontend/lipovitan-2020",
+    "prod": "https://scontent.sgp1.cdn.digitaloceanspaces.com/prod/frontend/lipovitan-2020",
+    "prod-nocache": "https://scontent.sgp1.cdn.digitaloceanspaces.com/prod/frontend/lipovitan-2020"
+  },
+  "cdn": {
+    "dev": false,
+    "staging": false,
+    "prod": false
+  }
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/spec/rules/0/http/paths/-",
+    "value": { "path": "/lipovitan-staging", "backend": { "serviceName": "lipovitan-staging-svc", "servicePort": 80 } }
+  }
+]

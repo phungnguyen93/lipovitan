@@ -1,0 +1,38 @@
+// $grid-gutter-width: 30px !default; // TODO: import variables from global files
+@import "styles/_mixins.scss";
+
+$container-breakpoints: (
+    sm: 540px,
+    md: 720px,
+    lg: 960px,
+    xl: 1140px,
+) !default;
+
+$grid-breakpoints: (
+    xs: 0,
+    sm: 576px,
+    md: 768px,
+    lg: 992px,
+    xl: 1200px,
+) !default;
+
+.container {
+    width: 100%;
+    // height: 100%;
+    // max-width: 1180px;
+    margin: 0 auto;
+    // padding-left: $grid-gutter-width / 2;
+    // padding-right: $grid-gutter-width / 2;
+
+    @each $size, $max-width in $container-breakpoints {
+        @include media-breakpoint-up($size, $grid-breakpoints) {
+            max-width: $max-width;
+        }
+    }
+}
+
+.container-fluid {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
